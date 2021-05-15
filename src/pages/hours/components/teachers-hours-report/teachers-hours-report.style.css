@@ -1,0 +1,15 @@
+.teachers-hours-report-container {
+    background-color:whitesmoke;
+
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 10px;    
+    margin-right: 10px;
+    width: 400px;
+
+}
+
+.report-without-hours {
+    color: red;
+    font-weight: bold;
+}

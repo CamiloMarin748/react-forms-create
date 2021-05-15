@@ -1,0 +1,22 @@
+.filterable-hours-report-container {
+    width: 800px;
+    min-height: 500px;
+    border: unset;
+    margin: 0 auto;
+}
+
+.container {
+    background:unset;
+    display: flex;
+    width: 800px;
+    height: 0 auto;
+  
+    flex-wrap: wrap;
+    align-content: flex-end;
+  }
+  
+  .item {
+    background:unset;
+    width: 45%;
+    height: 0 auto;
+  }
